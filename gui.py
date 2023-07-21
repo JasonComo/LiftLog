@@ -200,7 +200,7 @@ class GUI:
                     return 
                 
             else:
-                self.account = Account(username, password) # Need to change
+                self.account = Account(username, password) 
                 self.accounts_list.append(self.account)
                 self.createWelcomeFrame()
 
