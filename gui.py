@@ -298,7 +298,7 @@ class GUI:
                     return
 
                 if len(name) > 12:
-                    messagebox.showerror("Error", "Exercise name cannot be more than 14 characters.")
+                    messagebox.showerror("Error", "Exercise name cannot be more than 16 characters.")
                     return
 
                 if not sets.isdigit():
@@ -473,7 +473,7 @@ class GUI:
                         return
 
                     if len(name) > 12:
-                        messagebox.showerror("Error", "Exercise name cannot be more than 14 characters.")
+                        messagebox.showerror("Error", "Exercise name cannot be more than 16 characters.")
                         return
 
                     if not sets.isdigit():
