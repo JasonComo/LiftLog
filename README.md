@@ -1,14 +1,16 @@
-<center>
-  <img src="assets/
-</center>
-A Python Tkinter project that creates a GUI with signup/login functionality that allows users to create, view, and edit.
+
+<div align="center">
+  <img src="Assets/logo.png" alt="Logo">
+</div>
+
+### A Python Tkinter project that creates a GUI with signup/login functionality that allows users to create, view, edit, and delete workouts.
 
 
 ## Description
 This project utilizes Python's Tkinter library to create a GUI that supports user signup, login, logout, as well as the creation, view, and edits of up to four workouts with eight exercises each. 
 
 Key features:
-- Signup/Login: LiftLog keeps track of user account information, allowing for users to create a username and password, login, and logout.
+- Signup/Login/Logout: LiftLog keeps track of user account information, allowing for users to create a username and password, login, and logout.
 - Workout Creation: Users can create up to four workouts, with each workout containing up to eight exercises.
 - Workout Editing/Deletion: Users can edit existing workouts, as well as delete them if need be.
 
