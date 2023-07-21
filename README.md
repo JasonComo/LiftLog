@@ -32,7 +32,7 @@ python main.py
 Selecting the signup button in the bottom right will take users to a signup screen, where they can create an account.
 
 ### Login
-After creating an account. Users can login by entering their username and password.
+After creating an account, users can login by entering their username and password.
 
 ### Create Workout
 Users can create a workout by clicking the "Create Workouts" button. From there, they can add up to eight exercises, with names, sets, and reps, to the workout.
