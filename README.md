@@ -16,7 +16,7 @@ Key features:
 
 - Workout View: Users can view the workouts they have created.
   
-Keep in mind that LiftLog is not a fully functioning application that can remember account/workout information after closing the window, rather, it is a personal project intended to display both front-end and back-end development skills.
+Keep in mind that LiftLog is not a fully functioning application that can remember account/workout information after closing the window, rather, it is a personal project intended to display showcase my Python skills.
 
 ## Installation
 The Pillow module is the only module that needs to be installed, as the other modules, Tkinter and os, are included in Python.
